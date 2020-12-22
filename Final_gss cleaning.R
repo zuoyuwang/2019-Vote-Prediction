@@ -12,10 +12,7 @@
 ## 4. Continue in English (you're welcome to use the French, but we probably can't
 ## help you too much).
 ## 5. Crtl F GSS, click
-## 6. Click "Data" on the one you want. We used 2017, but you may want a different 
-## wave. In particular the General Social Survey on social identity (cycle 27), 
-## 2013 has some variables on voter participation if you're into that sort of 
-## thing. You're welcome to pick any year but this code applies to 2017.
+## 6. Click "Data" on the the General Social Survey on social identity (cycle 27), 
 ## 7. Click download
 ## 8. Select CSV data file, data definitions for STATA (gross, but stick with it for now).
 ## 9. Can select all variables by clicking button next to green colored "All". Then continue.

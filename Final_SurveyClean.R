@@ -3,7 +3,11 @@
 # Date: 21 December 2020
 # License: MIT
 # Purpose: The purpose of this code is to clean-up the 2019 CES data obtained 
-# from the 2019 CES website. (http://www.ces-eec.ca/)
+# from the 2019 CES website. (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DUS88V)
+
+# Pre-reqs: You need to have downloaded the data from the library. To do that: 
+## 1. Go to: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DUS88V
+## 2. Download 2019 Canadian Election Study - Online Survey v1.0.dta
 
 library(haven)
 library(tidyverse)
